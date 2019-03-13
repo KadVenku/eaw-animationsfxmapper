@@ -4,3 +4,6 @@
 [submodule "kv.utility.git"]
 	path = kv.utility
 	url = https://github.com/KadVenku/kv.utility.git
+[submodule "pg.animationsfxmap.git"]
+	path = pg.animationsfxmap
+	url = https://github.com/KadVenku/pg.animationsfxmap.git
