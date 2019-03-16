@@ -7,5 +7,9 @@ namespace eaw_animationsfxmapper
     /// </summary>
     public partial class App : Application
     {
+        public App()
+        {
+            InitializeComponent();
+        }
     }
 }

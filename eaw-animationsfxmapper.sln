@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eaw-animationsfxmapper", "eaw-animationsfxmapper\eaw-animationsfxmapper.csproj", "{11FF42B0-2F49-4151-9ED6-F62E420FD190}"
+	ProjectSection(ProjectDependencies) = postProject
+		{208DDB40-2F67-4F6E-8B09-B0A90BF5BCDE} = {208DDB40-2F67-4F6E-8B09-B0A90BF5BCDE}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pg.util", "pg.utils\pg.util\pg.util.csproj", "{EEA0D5DB-289C-4370-B3F2-CC673BC59C35}"
 EndProject
